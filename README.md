@@ -121,13 +121,6 @@ Onboarding
 
 ✅ Phase Goal Achieved: Core authentication + onboarding fully functional.
 
-⸻
-
-📅 Next Steps — Week 2 Plan
-	•	Implement core task engine (energy-based planning logic)
-	•	Design and connect Sprint Dashboard
-	•	Add RevenueCat integration for premium tier tracking
-	•	Begin UI polish for HomeView
 
 ⸻
 
